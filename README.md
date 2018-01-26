@@ -1,2 +1,3 @@
 # hello-world
-first step web project 
+
+hello fellas , trying to improve my computering skills.. Peace among worlds 
